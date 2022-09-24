@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54916" started-at="2022-09-24T04:25:47Z" finished-at="2022-09-24T04:26:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54916" started-at="2022-09-24T04:25:47Z" finished-at="2022-09-24T04:26:42Z">
+      <class name="testcases.HomeTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.HomeTest@4d339552]" name="SetUp" is-config="true" duration-ms="3940" started-at="2022-09-24T04:26:36Z" finished-at="2022-09-24T04:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:testcases.HomeTest@4d339552]" name="Test" duration-ms="1" started-at="2022-09-24T04:26:40Z" finished-at="2022-09-24T04:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.HomeTest@4d339552]" name="TearDown" is-config="true" duration-ms="2448" started-at="2022-09-24T04:26:40Z" finished-at="2022-09-24T04:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testcases.HomeTest -->
+      <class name="testcases.SimplilearnLoginTest">
+        <test-method status="PASS" signature="DataSetup()[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="DataSetup" is-config="true" duration-ms="532" started-at="2022-09-24T04:25:47Z" finished-at="2022-09-24T04:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataSetup -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="SetUp" is-config="true" duration-ms="4409" started-at="2022-09-24T04:25:48Z" finished-at="2022-09-24T04:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="Test1" duration-ms="11930" started-at="2022-09-24T04:25:52Z" finished-at="2022-09-24T04:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="TearDown" is-config="true" duration-ms="2454" started-at="2022-09-24T04:26:04Z" finished-at="2022-09-24T04:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="SetUp" is-config="true" duration-ms="3584" started-at="2022-09-24T04:26:06Z" finished-at="2022-09-24T04:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Test2(java.lang.String, java.lang.String)[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="Test2" duration-ms="10193" started-at="2022-09-24T04:26:10Z" finished-at="2022-09-24T04:26:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lasantha.pieries@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abcde@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="TearDown" is-config="true" duration-ms="86" started-at="2022-09-24T04:26:20Z" finished-at="2022-09-24T04:26:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="SetUp" is-config="true" duration-ms="3692" started-at="2022-09-24T04:26:20Z" finished-at="2022-09-24T04:26:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="Test3" duration-ms="11543" started-at="2022-09-24T04:26:24Z" finished-at="2022-09-24T04:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="TearDown" is-config="true" duration-ms="85" started-at="2022-09-24T04:26:36Z" finished-at="2022-09-24T04:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="DataClean()[pri:0, instance:testcases.SimplilearnLoginTest@3f200884]" name="DataClean" is-config="true" duration-ms="0" started-at="2022-09-24T04:26:42Z" finished-at="2022-09-24T04:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataClean -->
+      </class> <!-- testcases.SimplilearnLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
