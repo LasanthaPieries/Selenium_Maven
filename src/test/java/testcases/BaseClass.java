@@ -19,7 +19,7 @@ import org.testng.annotations.BeforeTest;
 
 public class BaseClass {
 	
-	WebDriver driver;
+	public static WebDriver driver;
 	
 	public XSSFWorkbook wbook;
 	public XSSFSheet sheet;
